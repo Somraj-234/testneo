@@ -41,7 +41,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="570">       %%NN     NNNN%         </tspan>
 <tspan x="15" y="590">       g%N        NN%m        </tspan>
 <tspan x="15" y="610">       m%N  N     NN%%m       </tspan>
-<tspan x="15" y="630">        %NNN NNNNNNN%mmn      </tspan>
+<tspan x="15" y="630">22 years, 1 month, 14 days</tspan>
 <tspan x="15" y="650">       g%NNNNN NNNN%%mmmmm    </tspan>
 <tspan x="15" y="670">     nmg%%NNNNNNNNNNgmmmmmmmn </tspan>
 <tspan x="15" y="690">  nmmgmmgNNNNNNNNNNggmmmmggmmm</tspan>
@@ -62,15 +62,15 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
 <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">11</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
-<tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">bettercallsomraj@gmail.com</tspan>
-<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
-<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
+<tspan x="370" y="350">12</tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">138    </tspan>
+<tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">2   </tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">10</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">121    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="470">21,808</tspan>
+<tspan x="370" y="490" class="keyColor">23,285++</tspan>: <tspan class="valueColor">1,477--</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">121    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">2   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">21,118</tspan> (<tspan class="addColor">22,264++</tspan>, <tspan class="delColor">1,146--</tspan>)
 </text>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="790px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -8,48 +8,35 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="770px" fill="#161b22" rx="15"/>
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">         nNNNNNNN             </tspan>
-<tspan x="15" y="50">        mN       Nm           </tspan>
-<tspan x="15" y="70">      *NN         NN          </tspan>
-<tspan x="15" y="90">     *N             N*        </tspan>
-<tspan x="15" y="110">    *                N%n      </tspan>
-<tspan x="15" y="130">    %                  %*     </tspan>
-<tspan x="15" y="150">   %N                   mn    </tspan>
-<tspan x="15" y="170">   N                    %m    </tspan>
-<tspan x="15" y="190">   N                    Nm    </tspan>
-<tspan x="15" y="210">   N           NNNNN    N     </tspan>
-<tspan x="15" y="230">  nN    NNNN NNN%NNNN    *    </tspan>
-<tspan x="15" y="250">   N   NNNNNN%%%%%%%%    n    </tspan>
-<tspan x="15" y="270">  nN    NNNNN%%%%%%%%N   *    </tspan>
-<tspan x="15" y="290">   N  N     NNN      %   g    </tspan>
-<tspan x="15" y="310">   *  %N     NN      N   n    </tspan>
-<tspan x="15" y="330">      % N   N%%N     NN N     </tspan>
-<tspan x="15" y="350">    N %%%NNN%%%%NNNNNN* *     </tspan>
-<tspan x="15" y="370">    %%%%%%%%%%*%%%%%%%* *     </tspan>
-<tspan x="15" y="390">    %****%%%%%%%N%***%*%N     </tspan>
-<tspan x="15" y="410">   g**%%%%%N  N N%**%%*%%     </tspan>
-<tspan x="15" y="430">    %%%%%N%N    %%%%%%*N%     </tspan>
-<tspan x="15" y="450">    %N%%NN   NN  N%%%%NN*     </tspan>
-<tspan x="15" y="470">    *N%%N     NN  N%%%N*      </tspan>
-<tspan x="15" y="490">    *%N%N  NNNNN   NN%N*      </tspan>
-<tspan x="15" y="510">      N%NNNN   NNNNNN%        </tspan>
-<tspan x="15" y="530">      %NN   NNNNNNNNN%        </tspan>
-<tspan x="15" y="550">       %NNN  NNNNNNNN         </tspan>
-<tspan x="15" y="570">       %%NN     NNNN%         </tspan>
-<tspan x="15" y="590">       g%N        NN%m        </tspan>
-<tspan x="15" y="610">       m%N  N     NN%%m       </tspan>
-<tspan x="15" y="630">        %NNN NNNNNNN%mmn      </tspan>
-<tspan x="15" y="650">       g%NNNNN NNNN%%mmmmm    </tspan>
-<tspan x="15" y="670">     nmg%%NNNNNNNNNNgmmmmmmmn </tspan>
-<tspan x="15" y="690">  nmmgmmgNNNNNNNNNNggmmmmggmmm</tspan>
-<tspan x="15" y="710">nmmmggmggg*NNNNNggggggmmmmmgmm</tspan>
-<tspan x="15" y="730">gmmmggmggggggggggggggmmmmmmggm</tspan>
-<tspan x="15" y="750">mmmggmggggggggg*ggggmmmmmmmmgg</tspan>
+<tspan x="15" y="30">      %NNNN%        </tspan>
+<tspan x="15" y="50">    m       N       </tspan>
+<tspan x="15" y="70">   %         N*     </tspan>
+<tspan x="15" y="90">  n            g    </tspan>
+<tspan x="15" y="110"> N             %   </tspan>
+<tspan x="15" y="130"> N             Nn  </tspan>
+<tspan x="15" y="150">         NNN   g   </tspan>
+<tspan x="15" y="170">    NNNNN%%%%   n  </tspan>
+<tspan x="15" y="190">   % NNN%%%%%      </tspan>
+<tspan x="15" y="210"> N NN   N          </tspan>
+<tspan x="15" y="230"> n NN  N%    N %   </tspan>
+<tspan x="15" y="250">   %%%%%%%NN%%     </tspan>
+<tspan x="15" y="170"> *%%%%N%%%%%*%%%   </tspan>
+<tspan x="15" y="290"> *%%%%N N %%%%N*   </tspan>
+<tspan x="15" y="310"> n%%%N N  N%%%N    </tspan>
+<tspan x="15" y="330"> g%%N  %%   %%%    </tspan>
+<tspan x="15" y="350">   NNNN  NNNN%     </tspan>
+<tspan x="15" y="370">   %NNNNNNNNN      </tspan>
+<tspan x="15" y="390">    %N   NNNN      </tspan>
+<tspan x="15" y="410">    %N    NN%m     </tspan>
+<tspan x="15" y="430">    %NN  NNN%mm    </tspan>
+<tspan x="15" y="450">    %NNNNNNN%mmmm  </tspan>
+<tspan x="15" y="470"> mmmgNNNNNNNgmmmgmm</tspan>
+<tspan x="15" y="490">mgmmmgggNNggggmmmmgm</tspan>
+<tspan x="15" y="510">mmggggggggggggmgmmgg</tspan>
 </text>
-
 
                                                                                             
 

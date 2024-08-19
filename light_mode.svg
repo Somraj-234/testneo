@@ -65,12 +65,12 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">11</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">12</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">138    </tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">140    </tspan>
 <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">2   </tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">21,808</tspan>
-<tspan x="370" y="490" class="keyColor">23,285++</tspan>: <tspan class="valueColor">1,477--</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">121    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="470">21,833</tspan>
+<tspan x="370" y="490" class="keyColor">23,328++</tspan>: <tspan class="valueColor">1,495--</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">121    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">2   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">21,118</tspan> (<tspan class="addColor">22,264++</tspan>, <tspan class="delColor">1,146--</tspan>)
 </text>
 

@@ -34,22 +34,22 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="430">        |||llll$$$$$$$$$llLl             </tspan>
 <tspan x="15" y="450">        ||||lll$$$$$$$lllLl|||L          </tspan>
 <tspan x="15" y="470">       j||||||lllllllll@*||||||||||lL;,  </tspan>
-<tspan x="15" y="490">     |||||*%4llllll%M*|||||||||||||||||||</tspan>
-<tspan x="15" y="510">,+||||||||||||||||||||||||||||||||| |||||</tspan>   
-<tspan x="15" y="530"> |||||||||||||||||||||||||||| ||||   ||||</tspan>            
-<tspan x="15" y="550">|||  ||||||||||||||||||||      ||    ||||</tspan>       
-<tspan x="15" y="570">|||||||||||||||||||||||           |  ||||</tspan>
-<tspan x="15" y="590">|| |||| |||||||||||||||              ||||</tspan>
+<tspan x="15" y="490">     |||||*%4llllll%M*|||||||||||||||||| </tspan>
+<tspan x="15" y="510">,+||||||||||||||||||||||||||||||||| |||| </tspan>   
+<tspan x="15" y="530"> |||||||||||||||||||||||||||| ||||   ||| </tspan>            
+<tspan x="15" y="550">|||  ||||||||||||||||||||      ||    ||| </tspan>       
+<tspan x="15" y="570">|||||||||||||||||||||||           |  ||| </tspan>
+<tspan x="15" y="590">|| |||| |||||||||||||||              ||| </tspan>
 <tspan x="15" y="610">|||||              |||||   |||||         </tspan>
 </text>
 
                                                                                         
 
 <text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">22 years, 1 month, 15 days</tspan>
+<tspan x="370" y="30">@Somraj-234</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 1 month, 14 days</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 5 month, 18 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rajarambapu Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science and Information Technology</tspan><tspan class="commentColor"> #CSIT</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">PyCharm, VSCode</tspan>
@@ -60,16 +60,17 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Tools</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Selenium, Git</tspan>
 <tspan x="370" y="310" class="keyColor">Tools</tspan>.<tspan class="keyColor">Design</tspan>: <tspan class="valueColor">Figma, Photoshop</tspan>
 <tspan x="370" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Graphic Designing, UI/UX, Android Customization</tspan>
-<tspan x="370" y="370" class="keyColor">11</tspan>.<tspan class="keyColor">General</tspan>: <tspan class="valueColor">12</tspan>
+<tspan x="370" y="370" class="keyColor">11</tspan>.<tspan class="keyColor">General</tspan>: <tspan class="valueColor">Painting</tspan>
 <tspan x="370" y="410" class="keyColor">Contact</tspan>:
-<tspan x="370" y="430">180    </tspan>
-<tspan x="370" y="450" class="keyColor">Email</tspan>: <tspan class="valueColor">1</tspan>
-<tspan x="370" y="470" class="keyColor">Linkedin</tspan>: <tspan class="valueColor">2   </tspan>
-<tspan x="370" y="490" class="keyColor">Twitter</tspan>: <tspan class="valueColor">21,849</tspan>
-<tspan x="370" y="530" class="keyColor">23,814++</tspan>:
-<tspan x="370" y="550">1,965--</tspan>
+<tspan x="370" y="430">——————</tspan>
+<tspan x="370" y="450" class="keyColor">Email</tspan>: <tspan class="valueColor">jadhavsomraj234@gmail.com</tspan>
+<tspan x="370" y="470" class="keyColor">Linkedin</tspan>: <tspan class="valueColor">Somraj-234</tspan>
+<tspan x="370" y="490" class="keyColor">Twitter</tspan>: <tspan class="valueColor">Somrajjj234</tspan>
+<tspan x="370" y="530" class="keyColor">Github Stats:</tspan>:
+<tspan x="370" y="550">——————</tspan>
 <tspan x="370" y="570" class="keyColor">Repos</tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">143    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="590" class="keyColor">Followers</tspan>: <tspan class="valueColor">2   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">21,835</tspan> (<tspan class="addColor">23,441++</tspan>, <tspan class="delColor">1,606--</tspan>)
 </text>
 
 </svg>
+

@@ -328,15 +328,15 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     svg = minidom.parse(filename)
     f = open(filename, mode='w', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
-    tspan[30].firstChild.data = age_data
-    tspan[65].firstChild.data = repo_data
-    tspan[67].firstChild.data = contrib_data
-    tspan[69].firstChild.data = commit_data
-    tspan[71].firstChild.data = star_data
-    tspan[73].firstChild.data = follower_data
-    tspan[75].firstChild.data = loc_data[2]
-    tspan[76].firstChild.data = loc_data[0] + '++'
-    tspan[77].firstChild.data = loc_data[1] + '--'
+    tspan[34].firstChild.data = age_data
+    tspan[78].firstChild.data = repo_data
+    tspan[80].firstChild.data = contrib_data
+    tspan[82].firstChild.data = commit_data
+    tspan[84].firstChild.data = star_data
+    tspan[86].firstChild.data = follower_data
+    tspan[88].firstChild.data = loc_data[2]
+    tspan[89].firstChild.data = loc_data[0] + '++'
+    tspan[90].firstChild.data = loc_data[1] + '--'
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
 
@@ -439,7 +439,7 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 7, 5))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2004, 3, 2))
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)

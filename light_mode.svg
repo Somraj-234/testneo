@@ -8,34 +8,39 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="610px" fill="#161b22" rx="15"/>
+<rect width="970px" height="610px" fill="##f6f8fa" rx="15"/>
 
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">      %NNNN%        </tspan>
-<tspan x="15" y="50">    m       N       </tspan>
-<tspan x="15" y="70">   %         N*     </tspan>
-<tspan x="15" y="90">  n            g    </tspan>
-<tspan x="15" y="110"> N             %   </tspan>
-<tspan x="15" y="130"> N             Nn  </tspan>
-<tspan x="15" y="150">         NNN   g   </tspan>
-<tspan x="15" y="170">    NNNNN%%%%   n  </tspan>
-<tspan x="15" y="190">   % NNN%%%%%      </tspan>
-<tspan x="15" y="210"> N NN   N          </tspan>
-<tspan x="15" y="230"> n NN  N%    N %   </tspan>
-<tspan x="15" y="250">   %%%%%%%NN%%     </tspan>
-<tspan x="15" y="170"> *%%%%N%%%%%*%%%   </tspan>
-<tspan x="15" y="290"> *%%%%N N %%%%N*   </tspan>
-<tspan x="15" y="310"> n%%%N N  N%%%N    </tspan>
-<tspan x="15" y="330"> g%%N  %%   %%%    </tspan>
-<tspan x="15" y="350">   NNNN  NNNN%     </tspan>
-<tspan x="15" y="370">   %NNNNNNNNN      </tspan>
-<tspan x="15" y="390">    %N   NNNN      </tspan>
-<tspan x="15" y="410">    %N    NN%m     </tspan>
-<tspan x="15" y="430">    %NN  NNN%mm    </tspan>
-<tspan x="15" y="450">    %NNNNNNN%mmmm  </tspan>
-<tspan x="15" y="470"> mmmgNNNNNNNgmmmgmm</tspan>
-<tspan x="15" y="490">mgmmmgggNNggggmmmmgm</tspan>
-<tspan x="15" y="510">mmggggggggggggmgmmgg</tspan>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">               ,,,  ,,                   </tspan>
+<tspan x="15" y="50">         ,g@@@@@@@@@@@@@@g,              </tspan>
+<tspan x="15" y="70">      ,g@@@@@@@@@@@@@@@@@@@@gg           </tspan>
+<tspan x="15" y="90">     @$@@@@@@@@@@@@@@@@@@@@@@@@,         </tspan>
+<tspan x="15" y="110">    $@@@@@@@@@@@@@@@@@@@@@@@@@@@@W       </tspan>
+<tspan x="15" y="130">   %@@@@@@@@@%%%%$%@%@%%@@@@@@@@@@LL     </tspan>
+<tspan x="15" y="150">   $@@@@@MMMMMMMMMMll$llllM%@@@@@@@[`    </tspan>
+<tspan x="15" y="170">   j@@@@MllLl||||||||||||lll%$@@@@M`     </tspan>
+<tspan x="15" y="190">   #@@@@%%@@@@@glllL|gggg|||l$@@@@@,     </tspan>
+<tspan x="15" y="210">   ]@@@|ygM@@@@$@T|%$$$$@%@@@g%@@@@L     </tspan>
+<tspan x="15" y="230">    %@F|||l||MM|||,|%@$%@@$@$Tj@@@@      </tspan>
+<tspan x="15" y="250">    j@    |||||||,|l||||||||||]@@@P      </tspan>
+<tspan x="15" y="270">   ,@L  |  ||l$M%@%@LL||||||||j$@F       </tspan>
+<tspan x="15" y="290">   [|L|||||||g@%%%$@T|||||||| ]|#g       </tspan>
+<tspan x="15" y="310">    Mk||||@@$g@W$@$$@@g|||||||ML|L       </tspan>
+<tspan x="15" y="330">   ||kl!ljMMll$$gWW[%@@@lL|lL#[$|`       </tspan>
+<tspan x="15" y="350">     ]lLll$@@$$M$$$$$l$$lllll@'`         </tspan>
+<tspan x="15" y="370">      jllll$$$$$$$$$$$$l$$$@F            </tspan>
+<tspan x="15" y="390">       ]lll$$$@@@$@$$@$$$$@L             </tspan>
+<tspan x="15" y="410">        ||jW$$$$$$@$$$@@$lL              </tspan>
+<tspan x="15" y="430">        |||llll$$$$$$$$$llLl             </tspan>
+<tspan x="15" y="450">        ||||lll$$$$$$$lllLl|||L          </tspan>
+<tspan x="15" y="470">       j||||||lllllllll@*||||||||||lL;,  </tspan>
+<tspan x="15" y="490">     |||||*%4llllll%M*|||||||||||||||||||</tspan>
+<tspan x="15" y="510">,+||||||||||||||||||||||||||||||||| |||||</tspan>   
+<tspan x="15" y="530"> |||||||||||||||||||||||||||| ||||   ||||</tspan>            
+<tspan x="15" y="550">|||  ||||||||||||||||||||      ||    ||||</tspan>       
+<tspan x="15" y="570">|||||||||||||||||||||||           |  ||||</tspan>
+<tspan x="15" y="590">|| |||| |||||||||||||||              ||||</tspan>
+<tspan x="15" y="610">|||||              |||||   |||||         </tspan>
 </text>
 
 

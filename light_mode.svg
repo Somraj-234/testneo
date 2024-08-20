@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="630px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="650px" font-size="16px">
 <style>
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
@@ -45,7 +45,7 @@ text, tspan {white-space: pre;}
 
 <text x="370" y="30" fill="#24292f">
 <tspan x="370" y="30">Somraj-234</tspan>
-<tspan x="370" y="50">22 years, 1 month, 15 days</tspan>
+<tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 5 month, 18 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rajarambapu Institute of Technology</tspan><tspan class="commentColor"/>
@@ -58,15 +58,15 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Tools</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Selenium, Git</tspan>
 <tspan x="370" y="310" class="keyColor">Tools</tspan>.<tspan class="keyColor">Design</tspan>: <tspan class="valueColor">Figma, Photoshop</tspan>
 <tspan x="370" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Digital</tspan>: <tspan class="valueColor">Graphic Designing, UI/UX, Android Customization</tspan>
-<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">11</tspan>: <tspan class="valueColor">Painting</tspan>
-<tspan x="370" y="410" class="keyColor">12</tspan>:
+<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Painting</tspan>
+<tspan x="370" y="410" class="keyColor">Contact</tspan>:
 <tspan x="370" y="430">——————</tspan>
-<tspan x="370" y="450" class="keyColor">192    </tspan>: <tspan class="valueColor">jadhavsomraj234@gmail.com</tspan>
-<tspan x="370" y="470" class="keyColor">1</tspan>: <tspan class="valueColor">Somraj-234</tspan>
-<tspan x="370" y="490" class="keyColor">2   </tspan>: <tspan class="valueColor">Somrajjj234</tspan>
-<tspan x="370" y="530" class="keyColor">21,843</tspan>:
-<tspan x="370" y="550">23,978++</tspan>
-<tspan x="370" y="570" class="keyColor">2,135--</tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">143    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="450" class="keyColor">Email</tspan>: <tspan class="valueColor">jadhavsomraj234@gmail.com</tspan>
+<tspan x="370" y="470" class="keyColor">Linkedin</tspan>: <tspan class="valueColor">Somraj-234</tspan>
+<tspan x="370" y="490" class="keyColor">Twitter</tspan>: <tspan class="valueColor">Somrajjj234</tspan>
+<tspan x="370" y="530" class="keyColor">Github Stats</tspan>:
+<tspan x="370" y="550">——————</tspan>
+<tspan x="370" y="570" class="keyColor">Repos</tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">143    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="590" class="keyColor">Followers</tspan>: <tspan class="valueColor">2   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">21,835</tspan> (<tspan class="addColor">23,441++</tspan>, <tspan class="delColor">1,606--</tspan>)
 </text>
 

@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
                                                                                         
 
 <text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">Somraj-234</tspan>
+<tspan x="370" y="30">22 years, 1 month, 15 days</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 1 month, 14 days</tspan>
@@ -60,7 +60,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Tools</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Selenium, Git</tspan>
 <tspan x="370" y="310" class="keyColor">Tools</tspan>.<tspan class="keyColor">Design</tspan>: <tspan class="valueColor">Figma, Photoshop</tspan>
 <tspan x="370" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Graphic Designing, UI/UX, Android Customization</tspan>
-<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">General</tspan>: <tspan class="valueColor">Painting</tspan>
+<tspan x="370" y="370" class="keyColor">11</tspan>.<tspan class="keyColor">General</tspan>: <tspan class="valueColor">12</tspan>
 <tspan x="370" y="410" class="keyColor">Contact</tspan>:
 <tspan x="370" y="430">——————</tspan>
 <tspan x="370" y="450" class="keyColor">Email</tspan>: <tspan class="valueColor">jadhavsomraj234@gmail.com</tspan>

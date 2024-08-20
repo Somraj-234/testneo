@@ -60,10 +60,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="430">——————</tspan>
 <tspan x="370" y="450" class="keyColor">11</tspan>: <tspan class="valueColor">jadhavsomraj234@gmail.com</tspan>
 <tspan x="370" y="470" class="keyColor">12</tspan>: <tspan class="valueColor">Somraj-234</tspan>
-<tspan x="370" y="490" class="keyColor">173    </tspan>: <tspan class="valueColor">Somrajjj234</tspan>
+<tspan x="370" y="490" class="keyColor">176    </tspan>: <tspan class="valueColor">Somrajjj234</tspan>
 <tspan x="370" y="530" class="keyColor">1</tspan>:
 <tspan x="370" y="550">——————</tspan>
-<tspan x="370" y="570" class="keyColor">2   </tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">21,838</tspan>: <tspan class="valueColor">23,670++</tspan>}  | <tspan class="keyColor">1,832--</tspan>: <tspan class="valueColor">143    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="570" class="keyColor">2   </tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">21,843</tspan>: <tspan class="valueColor">23,723++</tspan>}  | <tspan class="keyColor">1,880--</tspan>: <tspan class="valueColor">143    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="590" class="keyColor">Followers</tspan>: <tspan class="valueColor">2   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">21,835</tspan> (<tspan class="addColor">23,441++</tspan>, <tspan class="delColor">1,606--</tspan>)
 </text>
 

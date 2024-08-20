@@ -26,7 +26,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="270">          j@Lllllll$$$@%@%@$$llllllllj@@F       </tspan>
 <tspan x="15" y="290">          #lFl$ll$l$@@@@@@@$$$llll$$l]l@@       </tspan>
 <tspan x="15" y="310">          l%@l$l$@@$@@@@@$$@@@$$$$$$j@@j@       </tspan>
-<tspan x="15" y="330">          lj@$$$$$$$$@$g@@@%@@@@$$$$$@@M"       </tspan>
+<tspan x="15" y="330">          lj@$$$$$$$$@$g@@@%@@@@$$$$$@@M&quot;       </tspan>
 <tspan x="15" y="350">            ]@$$$@@@@@@%$@@@$$$@$$$$@TL`        </tspan>
 <tspan x="15" y="370">             j$$$$$@@@@$@$$$@@$$$@@@            </tspan>
 <tspan x="15" y="390">              ]$$$@@$@@@@@@$@@@@@@F             </tspan>
@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
                                                                                         
 
 <text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">Somraj-234</tspan>
+<tspan x="370" y="30">22 years, 1 month, 15 days</tspan>
 <tspan x="370" y="50">——————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 1 month, 15 days</tspan>
@@ -60,14 +60,14 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="290" class="keyColor">Tools</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Selenium, Git</tspan>
 <tspan x="370" y="310" class="keyColor">Tools</tspan>.<tspan class="keyColor">Design</tspan>: <tspan class="valueColor">Figma, Photoshop</tspan>
 <tspan x="370" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Graphic Designing, UI/UX, Android Customization</tspan>
-<tspan x="370" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">General</tspan>: <tspan class="valueColor">Painting</tspan>
+<tspan x="370" y="370" class="keyColor">11</tspan>.<tspan class="keyColor">General</tspan>: <tspan class="valueColor">12</tspan>
 <tspan x="370" y="410" class="keyColor">Contact</tspan>:
-<tspan x="370" y="430">——————</tspan>
-<tspan x="370" y="450" class="keyColor">11</tspan>: <tspan class="valueColor">jadhavsomraj234@gmail.com</tspan>
-<tspan x="370" y="470" class="keyColor">12</tspan>: <tspan class="valueColor">Somraj-234</tspan>
-<tspan x="370" y="490" class="keyColor">173    </tspan>: <tspan class="valueColor">Somrajjj234</tspan>
-<tspan x="370" y="530" class="keyColor">1</tspan>:
-<tspan x="370" y="550">——————</tspan>
+<tspan x="370" y="430">176    </tspan>
+<tspan x="370" y="450" class="keyColor">11</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="370" y="470" class="keyColor">12</tspan>: <tspan class="valueColor">2   </tspan>
+<tspan x="370" y="490" class="keyColor">173    </tspan>: <tspan class="valueColor">21,843</tspan>
+<tspan x="370" y="530" class="keyColor">23,723++</tspan>:
+<tspan x="370" y="550">1,880--</tspan>
 <tspan x="370" y="570" class="keyColor">2   </tspan>: <tspan class="valueColor">11</tspan> {<tspan class="keyColor">21,838</tspan>: <tspan class="valueColor">23,670++</tspan>}  | <tspan class="keyColor">1,832--</tspan>: <tspan class="valueColor">143    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
 <tspan x="370" y="590" class="keyColor">Followers</tspan>: <tspan class="valueColor">2   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">21,835</tspan> (<tspan class="addColor">23,441++</tspan>, <tspan class="delColor">1,606--</tspan>)
 </text>

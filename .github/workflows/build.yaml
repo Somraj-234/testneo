@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Add this line to give explicit write permissions
+      contents: write  
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -36,7 +36,7 @@ jobs:
         run: |-
           git add .
           git diff
-          git config --global user.email "110245790+Somraj-234@users.noreply.github.com"
-          git config --global user.name "Somraj-234/GitHub-Actions-Bot"
+          git config --global user.email "actions@github.com" #"110245790+Somraj-234@users.noreply.github.com"
+          git config --global user.name "GitHub Actions" # "Somraj-234/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
           git push
